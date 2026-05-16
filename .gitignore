@@ -1,0 +1,16 @@
+# Public repo safety rules
+*.env
+*.key
+*.pdf
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node/build artifacts
+node_modules/
+dist/
+build/
+.cache/
