@@ -9,21 +9,14 @@ model rather than in procedure.
 
 ## Current work
 
-**Compliance instrument, federal construction.** Deployed across six
-active task orders: a 60-gate work breakdown, an 11-state submittal
-lifecycle, a deadline engine, and an alert layer over government-facing
-obligations. Measured first-pass approval rate: 17% against an assumed
-90% baseline.
+**Compliance instrument, federal construction.** A deployed requirements-traceability instrument with an approximately 60-gate work breakdown, an 11-state submittal lifecycle, a deadline engine and an alert layer. See the [Federal Submittal Compliance Model](https://github.com/jvholmes87/federal-submittal-compliance-model) for the dated preliminary observations, units of analysis and limitations. The earlier first-pass comparison is superseded and is not used here.
 
-**Rejection taxonomy.** Structured coding of government review outcomes
-with inter-rater reliability. In development.
+**Rejection taxonomy.** Candidate structured coding of government review outcomes. A focused literature review precedes further codebook development; inter-rater reliability is not established.
 
 ## Related repositories
 
 - [treasury-platform-casestudy](https://github.com/jvholmes87/treasury-platform-casestudy)
-  — obligations enforced as database invariants rather than UI
-  procedure, with full requirements traceability. Pilot: one fiscal
-  year, overseas volunteer committee.
+  — requirements and architecture case study for volunteer treasury controls. The earlier web-platform development is retired; current Google Workspace implementation and acceptance are tracked separately.
 
 ## Scope
 
